@@ -13,6 +13,24 @@
             "src": "/img/icons/icon_512.png",
             "type": "image/png",
             "sizes": "512x512"
+        },
+        {
+            "src": "/img/icons//maskable_icon_x96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/img/icons//maskable_icon_x152.png",
+            "sizes": "152x152",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/img/icons//maskable_icon_x1.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
         }
     ],
     "background_color": "#170040",
