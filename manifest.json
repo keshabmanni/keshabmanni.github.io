@@ -1,7 +1,7 @@
 {
     "name": "Portfolio",
     "short_name": "Portfolio",
-    "start_url": "/index.html",
+    "start_url": "/#/",
     "description": "Portfolio Site Of Keshab Manni",
     "icons": [
         {
